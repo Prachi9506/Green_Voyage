@@ -1,4 +1,4 @@
-# 🌱 Sustainable Travel Website
+# 🌱 Sustainable Travel Website(sub part of another big project :)
 
 A nature-themed web promoting eco-friendly travel with a carbon calculator, sustainable tips, green trip planner, real NGO collaborations, and informative blogs.
 
