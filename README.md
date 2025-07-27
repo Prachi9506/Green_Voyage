@@ -1,5 +1,5 @@
 # 🌱 Sustainable Travel Website(sub part of another big project :)
-![DocuFlow+ Interface](Screenshot 2025-07-27 223220.png)
+![DocuFlow+ Interface](ss)
 
 A nature-themed web promoting eco-friendly travel with a carbon calculator, sustainable tips, green trip planner, real NGO collaborations, and informative blogs.
 
