@@ -4,7 +4,6 @@
 A nature-themed web promoting eco-friendly travel with a carbon calculator, sustainable tips, green trip planner, real NGO collaborations, and informative blogs.
 
 ---
-
 ## 🚀 Features
 
 - Carbon Footprint Estimator (in km, ₹)
@@ -22,3 +21,4 @@ A nature-themed web promoting eco-friendly travel with a carbon calculator, sust
 - Clean and readable layout  
 
 ---
+
