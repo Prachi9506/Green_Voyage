@@ -9,7 +9,7 @@ A nature-themed web promoting eco-friendly travel with a carbon calculator, sust
 
 - Carbon Footprint Estimator (in km, ₹)
 - Sustainable Travel Tips
-- Green Trip Planner (distance-based)
+- Green Trip Planner (distance-based) 
 - Real NGO Collaborations
 - Blog Section with detailed articles  
 
@@ -22,6 +22,7 @@ A nature-themed web promoting eco-friendly travel with a carbon calculator, sust
 - Clean and readable layout  
 
 ---
+
 
 
 
