@@ -14,7 +14,7 @@ A nature-themed web promoting eco-friendly travel with a carbon calculator, sust
 - Blog Section with detailed articles  
 
 ---
- 
+  
 ## 🌿 Design Highlights
 
 - Earth-toned, nature-inspired UI  
@@ -22,6 +22,7 @@ A nature-themed web promoting eco-friendly travel with a carbon calculator, sust
 - Clean and readable layout  
 
 ---
+
 
 
 
